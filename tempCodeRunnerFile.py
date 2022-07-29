@@ -1,0 +1,1 @@
+width=200, height=224,highlightthickness=0,bg=YELLOW
